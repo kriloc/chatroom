@@ -1,3 +1,4 @@
+// 使用 github Oauth 來測試
 package main
 
 import (
