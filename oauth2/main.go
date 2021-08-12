@@ -1,5 +1,6 @@
 // 使用 github Oauth 來測試
-package main
+//package main
+package oauth2
 
 import (
 	"encoding/json"

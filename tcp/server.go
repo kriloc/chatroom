@@ -1,4 +1,5 @@
-package main
+//package main  //執行要切換
+package tcp
 
 import (
 	"bufio"
