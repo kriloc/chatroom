@@ -1,1 +1,3 @@
-module "chatroom"
+module chatroom
+
+go 1.16
